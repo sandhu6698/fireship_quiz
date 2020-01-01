@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424292762331",
+    "firebase_url": "https://fireship-fbaf4.firebaseio.com",
+    "project_id": "fireship-fbaf4",
+    "storage_bucket": "fireship-fbaf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424292762331:android:f9c61c9dfb9c899e13c2fe",
+        "android_client_info": {
+          "package_name": "fireship.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424292762331-ckorn60scp3l4apjok8aru96g1jr4cl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fireship.com",
+            "certificate_hash": "be024b0e38be0980e1616052a686bf0eb3cec1f9"
+          }
+        },
+        {
+          "client_id": "424292762331-hdvr2abeg8ju19vlt8lip2n7mgj68b0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgNiFimWWPWSLquznlf0sbRTUI3QU2IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424292762331-hdvr2abeg8ju19vlt8lip2n7mgj68b0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
